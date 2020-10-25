@@ -3,12 +3,14 @@
     {
       "id": 1,
       "word": "Mountain",
-      "meaning": "mou"
+      "meaning": "mou",
+      "synonyms": "this"
     },
     {
       "id": 2,
       "word": "Game",
-      "meaning": "mganou"
+      "meaning": "mganou",
+      "synonyms": "here"
     }
   ],
   "comments": [
