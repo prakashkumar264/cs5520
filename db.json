@@ -1,14 +1,12 @@
 {
   "words": [
     {
-      "id": 1,
-      "word": "Mountain",
+      "id": "Mountain",
       "meaning": "mou",
       "synonyms": "this"
     },
     {
-      "id": 2,
-      "word": "Game",
+      "id": "Game",
       "meaning": "mganou",
       "synonyms": "here"
     }
