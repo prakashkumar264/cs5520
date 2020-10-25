@@ -1,0 +1,26 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "Mountain",
+      "meaning": "mou"
+    },
+    {
+      "id": 2,
+      "word": "Game",
+      "meaning": "mganou"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
