@@ -2,13 +2,17 @@
   "words": [
     {
       "id": "Mountain",
+      "pronunciation": "moun-tain",
       "meaning": "mou",
-      "synonyms": "this"
+      "synonyms": "this",
+      "example": "I love Mountains"
     },
     {
       "id": "Game",
+      "pronunciation": "ga-me",
       "meaning": "mganou",
-      "synonyms": "here"
+      "synonyms": "here",
+      "example": "I love gaming"
     }
   ],
   "comments": [
